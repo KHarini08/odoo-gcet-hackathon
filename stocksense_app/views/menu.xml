@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <menuitem id="menu_stocksense_root" name="StockSense"/>
-    <menuitem id="menu_stocksense_dashboard" name="Dashboard" parent="menu_stocksense_root" sequence="1"/>
-    <menuitem id="menu_stocksense_products" name="Products" parent="menu_stocksense_root" sequence="2"/>
-    <menuitem id="menu_stocksense_operations" name="Operations" parent="menu_stocksense_root" sequence="3"/>
-    <menuitem id="menu_stocksense_settings" name="Settings" parent="menu_stocksense_root" sequence="4"/>
 </odoo>
