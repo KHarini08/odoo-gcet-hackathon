@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1790408796526,
+      "name": "Laptop",
+      "sku": "LAP-001",
+      "category": "Electronics",
+      "uom": "Units",
+      "stock": 10
+    }
+  ],
+  "operations": []
+}
