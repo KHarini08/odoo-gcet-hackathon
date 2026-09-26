@@ -6,8 +6,17 @@
       "sku": "LAP-001",
       "category": "Electronics",
       "uom": "Units",
-      "stock": 10
+      "stock": 4
     }
   ],
-  "operations": []
+  "operations": [
+    {
+      "id": 1790409137865,
+      "type": "Receipt",
+      "supplier": "Harini",
+      "sku": "LAP-001",
+      "quantity": -6,
+      "timestamp": "2026-09-26T07:52:17.865Z"
+    }
+  ]
 }
